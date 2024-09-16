@@ -25,8 +25,7 @@ Azure Blob Storage
 Azure Cosmos DB (optional)
 
 
-#Coming Soon Features:
-
+#ComingFeatures
 Advanced Answer Analysis: Deeper feedback on answers with sentiment analysis and clarity scoring.
 Job-Specific Interview Questions: Tailored questions based on specific industries and job roles.
 Multiple Language Support: Interview preparation in various languages.
