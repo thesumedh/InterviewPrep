@@ -13,7 +13,7 @@ Records the user's spoken responses for playback and analysis.
 
 Feedback:
 Provides suggestions for improvement based on the user's answers, offering tips on performance.
-
+-----------------------------------------------------------------------------------------------------
 Technologies Used:
 Frontend: React
 Backend: FastAPI
@@ -23,13 +23,14 @@ Azure Functions
 Azure Cognitive Services (Speech Services, Text Analytics)
 Azure Blob Storage
 Azure Cosmos DB (optional)
+-----------------------------------------------------------------------------------------------------
 
-
-#ComingFeatures
+Coming Soon Features
 Advanced Answer Analysis: Deeper feedback on answers with sentiment analysis and clarity scoring.
 Job-Specific Interview Questions: Tailored questions based on specific industries and job roles.
 Multiple Language Support: Interview preparation in various languages.
 Interview Summary Reports: Detailed performance reports, including strengths and areas for improvement.
+-----------------------------------------------------------------------------------------------------
 
 ![SysDesign](https://github.com/user-attachments/assets/143e0b15-9c58-4e6a-9c03-187c788c1e8b)
 
