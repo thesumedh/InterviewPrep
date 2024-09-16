@@ -12,23 +12,37 @@ Audio Recording:
 Records the user's spoken responses for playback and analysis.
 
 Feedback:
+
 Provides suggestions for improvement based on the user's answers, offering tips on performance.
+
 -----------------------------------------------------------------------------------------------------
 Technologies Used:
 Frontend: React
+
 Backend: FastAPI
+
 Cloud Platform: Azure
+
 Azure Services:
+
 Azure Functions
+
 Azure Cognitive Services (Speech Services, Text Analytics)
+
 Azure Blob Storage
+
 Azure Cosmos DB (optional)
+
 -----------------------------------------------------------------------------------------------------
 
 Coming Soon Features
+
 Advanced Answer Analysis: Deeper feedback on answers with sentiment analysis and clarity scoring.
+
 Job-Specific Interview Questions: Tailored questions based on specific industries and job roles.
+
 Multiple Language Support: Interview preparation in various languages.
+
 Interview Summary Reports: Detailed performance reports, including strengths and areas for improvement.
 -----------------------------------------------------------------------------------------------------
 
